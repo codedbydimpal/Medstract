@@ -1,5 +1,5 @@
 
-# 🧠 MedAbstract - Medical Abstract Segmentation with DeBERTa v3
+# 🧠 Medstract - Medical Abstract Segmentation with DeBERTa v3
 
 Segment and classify sentences from medical research abstracts to improve readability and enable skimmable abstracts using state-of-the-art NLP techniques.
 
